@@ -1,0 +1,8 @@
+# 临时与本地文件
+*.tmp
+*.log
+~$*
+.DS_Store
+Thumbs.db
+com-excel-test.ps1
+node_modules/
